@@ -22,6 +22,7 @@ Includes a set of zero-dependency CLIs I built and maintain ([kleogeos](https://
 - [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) — open-source, self-hostable invoicing and billing platform.
 - [Invompt](https://invompt.com) — turn AI-host work into invoices you review before send; Continue as guest or OAuth via hosted MCP (free guest tier).
 - [Freelancer Invoice Aging Sample](https://github.com/SirMem/freelancer-invoice-aging-sample) — free spreadsheet sample with Current / 1–30 / 31–60 / 60+ aging buckets for freelancers chasing late invoices; free sample of a paid tracker, no license file in repo (maker).
+- [Paid Tonight](https://github.com/theluckystrike/paid-tonight) — open-source (MIT) hackathon prototype that turns a typed or spoken job description into a PayPal invoice with line items, discount, tax and a QR code to pay on the spot; the public demo runs on the PayPal sandbox only (maker).
 
 ## Proposals & Contracts
 
