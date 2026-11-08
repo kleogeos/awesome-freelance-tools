@@ -22,6 +22,7 @@ Includes a set of zero-dependency CLIs I built and maintain ([kleogeos](https://
 - [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) — open-source, self-hostable invoicing and billing platform.
 - [Invompt](https://invompt.com) — turn AI-host work into invoices you review before send; Continue as guest or OAuth via hosted MCP (free guest tier).
 - [Freelancer Invoice Aging Sample](https://github.com/SirMem/freelancer-invoice-aging-sample) — free spreadsheet sample with Current / 1–30 / 31–60 / 60+ aging buckets for freelancers chasing late invoices; free sample of a paid tracker, no license file in repo (maker).
+- [UK Late Payment Calculator](https://github.com/wilsonryan-hue/uk-late-payment-calculator) — free browser calculator for UK statutory late payment interest (8% + Bank of England reference rate) and the £40/£70/£100 fixed sum, with the working shown; one JS file, no tracking, MIT. [Hosted version](https://www.tchworks.co.uk/uk-late-payment-calculator/). (maker)
 
 ## Proposals & Contracts
 
