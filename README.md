@@ -65,6 +65,7 @@ Browser-based, no signup, no tracking:
 - [Contract clause checklist](https://kleogeos.github.io/freelancer-tools/contract-checklist.html)
 - [Self-employment tax estimator](https://kleogeos.github.io/freelancer-tools/self-employment-tax-estimator.html)
 - [USDT → RUB calculator](https://kleogeos.github.io/freelancer-tools/usdt-v-rubli-kalkulyator.html)
+- [Dogeshorts PDF Tools](https://dogeshorts.com/pdftools) - free PDF tools for freelance paperwork: merge, split, compress, convert, protect and unlock PDFs in the browser, no account needed (maker).
 - [Full list of free tools →](https://kleogeos.github.io/freelancer-tools/)
 
 ## Contributing
