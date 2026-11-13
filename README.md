@@ -22,6 +22,7 @@ Includes a set of zero-dependency CLIs I built and maintain ([kleogeos](https://
 - [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) — open-source, self-hostable invoicing and billing platform.
 - [Invompt](https://invompt.com) — turn AI-host work into invoices you review before send; Continue as guest or OAuth via hosted MCP (free guest tier).
 - [Freelancer Invoice Aging Sample](https://github.com/SirMem/freelancer-invoice-aging-sample) — free spreadsheet sample with Current / 1–30 / 31–60 / 60+ aging buckets for freelancers chasing late invoices; free sample of a paid tracker, no license file in repo (maker).
+- [Free Invoice Generator](https://free-invoice-generator.web-free.site/) — create invoices, quotes and receipts in the browser and download them as PDF (RWF, FCFA, USD, EUR; English and French). No account; ad-supported; open source (MIT, maker).
 
 ## Proposals & Contracts
 
