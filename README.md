@@ -32,6 +32,8 @@ Includes a set of zero-dependency CLIs I built and maintain ([kleogeos](https://
 
 ## Time Tracking & Rates
 
+- [TimecardSum](https://timecardsum.com/) — Free browser-based time card calculator for hours, breaks, overtime, and gross pay; exports PDF and CSV without an account. (maker)
+
 - [freelance-time-cli](https://github.com/kleogeos/freelance-time-cli) — track billable hours per project, local JSON file, no cloud account.
 - [freelance-rate-cli](https://github.com/kleogeos/freelance-rate-cli) — work out the hourly rate you need to charge to cover taxes, time off, and non-billable hours.
 - [Toggl Track](https://toggl.com/track/) — free tier time tracker with a long-running reputation in the freelance/agency world.
