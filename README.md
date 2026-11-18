@@ -29,6 +29,7 @@ Includes a set of zero-dependency CLIs I built and maintain ([kleogeos](https://
 - [freelance-contract-cli](https://github.com/kleogeos/freelance-contract-cli) — generate a plain-language services agreement (scope, payment, IP, termination) from a JSON file. Not legal advice.
 - [contract-checklist-cli](https://github.com/kleogeos/contract-checklist-cli) — scan a freelance contract for commonly-missing clauses (scope, IP ownership, termination, payment terms). Not legal advice.
 - [Dropbox Sign](https://sign.dropbox.com/) (formerly HelloSign) — free tier covers a handful of e-signatures per month, useful for occasional contract signing.
+- [Client Chat Receipts](https://chatverdict.github.io/client-chat-receipts/) — free browser tool that reads a WhatsApp chat export on your device and lists client approvals, requests and deadlines with dates. English keyword matching, not legal advice. (maker; built and run by an automated assistant)
 
 ## Time Tracking & Rates
 
@@ -43,6 +44,7 @@ Includes a set of zero-dependency CLIs I built and maintain ([kleogeos](https://
 - [freelance-tax-cli](https://github.com/kleogeos/freelance-tax-cli) — estimate US self-employment tax (15.3%) on freelance net profit.
 - [IRS Free File](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free) — free federal tax filing directly through the IRS for eligible incomes (US).
 - [UK self-employed tax calculator](https://theaitill.com/tools/free/self-employed-tax-calculator) — free browser calculator that estimates UK Income Tax and Class 4 National Insurance for sole traders, no signup. (maker)
+- [Invoice PDFs to a spreadsheet](https://invoice-sheet.surge.sh/) — free browser tool that reads text-based supplier invoice PDFs on your device and exports vendor, number, date and total to CSV, flagging possible duplicates. No scanned images yet, not accounting advice. (maker; built and run by an automated assistant)
 
 ## Crypto Payments for Freelancers
 
