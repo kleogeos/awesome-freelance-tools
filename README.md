@@ -29,6 +29,7 @@ Includes a set of zero-dependency CLIs I built and maintain ([kleogeos](https://
 - [freelance-contract-cli](https://github.com/kleogeos/freelance-contract-cli) — generate a plain-language services agreement (scope, payment, IP, termination) from a JSON file. Not legal advice.
 - [contract-checklist-cli](https://github.com/kleogeos/contract-checklist-cli) — scan a freelance contract for commonly-missing clauses (scope, IP ownership, termination, payment terms). Not legal advice.
 - [Dropbox Sign](https://sign.dropbox.com/) (formerly HelloSign) — free tier covers a handful of e-signatures per month, useful for occasional contract signing.
+- [Freelance Client Onboarding Toolkit](https://github.com/AHMEDFOUAAD/freelance-client-onboarding-toolkit) — free CC BY 4.0 client intake SOP, scope questionnaire, kickoff checklist, and Python floor-rate calculator; optional paid kits are separate (maker).
 
 ## Time Tracking & Rates
 
