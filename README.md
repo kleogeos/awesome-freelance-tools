@@ -51,6 +51,7 @@ Useful if you work with international clients who prefer stablecoins over slow/e
 - [crypto-pay-cli](https://github.com/kleogeos/crypto-pay-cli) — check incoming USDT (TRC20) payments and generate receive QR codes.
 - [usdt-rub-cli](https://github.com/kleogeos/usdt-rub-cli) — estimate RUB received for USDT via P2P, exchanger, or a custom spread.
 - [How to accept crypto payments as a freelancer](https://kleogeos.github.io/freelancer-tools/how-to-accept-crypto-payments-freelancer.html) — a practical guide, including the legal basics worth checking before you do.
+- [BitTool Signer (iOS)](https://bittool.com/signer/) — free offline QR signer for TRON/EVM transactions; a separate online wallet prepares and broadcasts them. (maker)
 
 ## Crypto Market Tools
 
