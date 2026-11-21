@@ -36,6 +36,7 @@ Includes a set of zero-dependency CLIs I built and maintain ([kleogeos](https://
 - [freelance-rate-cli](https://github.com/kleogeos/freelance-rate-cli) — work out the hourly rate you need to charge to cover taxes, time off, and non-billable hours.
 - [Toggl Track](https://toggl.com/track/) — free tier time tracker with a long-running reputation in the freelance/agency world.
 - [Clockify](https://clockify.me/) — free, unlimited time tracking for individuals.
+- [tally-widgets-lite](https://github.com/kingworks-dev/tally-widgets-lite) — embeddable markup/margin and hourly-rate calculator widgets in vanilla JS, MIT, no dependencies (free subset of a paid 8-widget pack) (maker).
 
 ## Expenses & Taxes
 
