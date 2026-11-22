@@ -43,6 +43,7 @@ Includes a set of zero-dependency CLIs I built and maintain ([kleogeos](https://
 - [freelance-tax-cli](https://github.com/kleogeos/freelance-tax-cli) — estimate US self-employment tax (15.3%) on freelance net profit.
 - [IRS Free File](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free) — free federal tax filing directly through the IRS for eligible incomes (US).
 - [UK self-employed tax calculator](https://theaitill.com/tools/free/self-employed-tax-calculator) — free browser calculator that estimates UK Income Tax and Class 4 National Insurance for sole traders, no signup. (maker)
+- [SmartBizCalc](https://www.smartbizcalc.com) — 700+ free US small-business financial calculators covering self-employment tax, 1099 vs W-2, payroll, quarterly estimated tax, break-even, and contractor pricing. No sign-up required.
 
 ## Crypto Payments for Freelancers
 
